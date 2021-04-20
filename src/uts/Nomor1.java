@@ -59,7 +59,7 @@ public class Nomor1 {
         
         Scanner input = new Scanner(System.in);
         
-        int[] nilai = {25,7,9,13,3};
+        int[] nilai = {2, 3, 4, 8, 10, 13};
         System.out.println("before");
         printData(nilai);
         insertionSort(nilai);
